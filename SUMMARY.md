@@ -3,3 +3,4 @@
 - [天龙八部](novel02.md)
 - [白马啸西风](novel03.md)
 - [鹿鼎记](novel04.md)
+- [笑傲江湖](novel05.md)
