@@ -4,3 +4,6 @@
 - [白马啸西风](novel03.md)
 - [鹿鼎记](novel04.md)
 - [笑傲江湖](novel05.md)
+- [射雕英雄传](novel06.md)
+- [神雕侠侣](novel07.md)
+- [倚天屠龙记](novel08.md)
